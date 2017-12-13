@@ -1,6 +1,6 @@
 # About this course
 
-Course 3 of 5 in the Functional Programming in Scala Specialization .
+Course 3 of 5 in the Functional Programming in Scala Specialization.
 
 Learning Outcomes :
 
