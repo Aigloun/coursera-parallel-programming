@@ -1,0 +1,8 @@
+runMain reductions.ParallelCountChangeRunner
+submit "jbordo_casu@outlook.fr lbCywsawgDHfSfOY"
+submit jbordo_casu@outlook.fr lbCywsawgDHfSfOY
+submit jbordo_casu@outlook.fr 3P57xDZQsZ78iltr
+runMain reductions.LineOfSightRunner
+submit jbordo_casu@outlook.fr 3P57xDZQsZ78iltr
+runMain reductions.LineOfSightRunner
+submit jbordo_casu@outlook.fr 3P57xDZQsZ78iltr
